@@ -2,6 +2,7 @@ from tkinter import ttk
 import tkinter as tk
 
 
+# poniendo un comentario en esto que todavia no sirve
 class cuadro(ttk.Treeview):
     def __init__(self):
         super().__init__()
